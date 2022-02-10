@@ -1,7 +1,7 @@
 # Pan Bikang's Blogs **潘比康**
 ## Blog Collection
 ### Summarys for my task-oriented research
-[notion](https://panbk.notion.site/Task-oriented-communication-ad568a28bfc5425f9468442c2087dc2c)
+[notion](https://panbk.notion.site/Task-oriented-communication-ad568a28bfc5425f9468442c2087dc2c) version
 
 
 ## Blogs
