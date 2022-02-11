@@ -5,7 +5,11 @@
 
 
 ## Blogs
-***Note***: **Notion** must be the newest version, **html** version may have some delay.
+***Note***: 
+
+**Notion** must be the newest version, **html** version may have some delay.
+
+**150%+ is better** when reading the blog because the bad rendering of the mathmatical formula.
 ### Learning Task-Oriented Communication for Edge Inference: An Information Bottleneck Approach
 [notion](https://panbk.notion.site/Learning-Task-Oriented-Communication-for-Edge-Inference-An-Information-Bottleneck-Approach-5b260131f8694957b11a35a1e127311e) version
 [html](post/Learning Task-Oriented Communication for Edge Infe 3b4779f1326f40a58697a7e45a078947.html) version
