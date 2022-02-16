@@ -17,3 +17,6 @@
 ### Task-Oriented Semantic Communication Systems Based on Extended Rate-Distortion Theory
 [notion](https://panbk.notion.site/Task-Oriented-Semantic-Communication-Systems-Based-on-Extended-Rate-Distortion-Theory-a49d6f2f8de5433d9251c4ea82f9c8b3) version
 
+## Class Notes
+[NLP/Lec2](post/Text%20Normalization.html)
+
