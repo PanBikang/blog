@@ -21,4 +21,12 @@
 
 [NLP/Lec2](post/Note-CS274A-Lec2.html)
 
+[NLP/Lec4](post/Note-CS274A-Lec4.html)
+
 [AI/Lec2](post/Note-CS182-Lec2.html)
+
+[AI/Lec4](post/Note-CS182-Lec4.html)
+
+[Intro to Modern Art/Lec1](post/Note-ARTS1405-Lec1.html)
+
+[Intro to Modern Art/Lec2](post/Note-ARTS1405-Lec2.html)
