@@ -23,6 +23,8 @@
 
 [NLP/Lec4](post/Note-CS274A-Lec4.html)
 
+[NLP/Lec5](post/Note-CS274A-Lec5.html)
+
 [AI/Lec2](post/Note-CS182-Lec2.html)
 
 [AI/Lec4](post/Note-CS182-Lec4.html)
